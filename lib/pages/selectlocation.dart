@@ -28,7 +28,7 @@ class _SelectLocationState extends State<SelectLocation> {
     print('__');
     return Column(
       children: [
-        const Header(title: "Locations"),
+        const Header(title: "Location"),
         Container(
           height: height - 70 - 135,
           width: width * 1,
