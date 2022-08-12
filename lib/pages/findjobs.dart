@@ -20,6 +20,7 @@ class _FindJobsState extends State<FindJobs> {
     'Delhi',
     'Bangalore',
     'Hyderabad',
+    'Puducherry',
   ];
   @override
   void initState() {
